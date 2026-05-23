@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm David! 👋
 
-<!--
-**pribylda/pribylda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student (focusing on application development and system administration) at SPŠE, passionate about modern web technologies. I love connecting the technical world with the real one.
 
-Here are some ideas to get you started:
+🛠 **What I'm currently working on:**
+- Actively seeking opportunities to gain real-world experience.
+- Managing and maintaining the website [alpidogmako.cz](https://alpidogmako.cz).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Technologies I work with:**
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend & Databases:** PHP, SQL, Python
+- **Networking:** MikroTik configuration, Cisco Packet Tracer
+- **Video Editing:** DaVinci Resolve
+
+⚡ **Outside of code:**
+When I'm not programming, you can usually find me doing sports. I especially love running and working out at the gym.
+
+📫 **How to reach me:**
+- **Instagram:** [@pribyl.da](https://www.instagram.com/pribyl.da)
+- **Email:** davidpribyl09@gmail.com
