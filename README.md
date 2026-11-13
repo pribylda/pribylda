@@ -1,20 +1,18 @@
-### Hi, I'm David! 👋
+### Hi, I'm David
 
-I'm an IT student (focusing on application development and system administration) at SPŠE, passionate about modern web technologies. I love connecting the technical world with the real one.
+I'm an IT student at SPŠE focusing on application development and system administration.
 
-🛠 **What I'm currently working on:**
-- Actively seeking opportunities to gain real-world experience.
-- Managing and maintaining the website [alpidogmako.cz](https://alpidogmako.cz).
+**Currently working on:**
+- Competing in [Tour de App](https://tourdeapp.cz/zadani/1) — building a web application for this year's challenge.
+- Managing and maintaining [alpidogmako.cz](https://alpidogmako.cz).
+- Looking for opportunities to gain more real-world experience.
 
-💻 **Technologies I work with:**
+**Technologies:**
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend & Databases:** PHP, SQL, Python
-- **Networking:** MikroTik configuration, Cisco Packet Tracer
+- **Backend & Databases:** PHP, Node.js, Python, SQL
+- **Networking:** MikroTik, Cisco
 - **Video Editing:** DaVinci Resolve
 
-⚡ **Outside of code:**
-When I'm not programming, you can usually find me doing sports. I especially love running and working out at the gym.
-
-📫 **How to reach me:**
+**Contact:**
 - **Instagram:** [@pribyl.da](https://www.instagram.com/pribyl.da)
 - **Email:** davidpribyl09@gmail.com
